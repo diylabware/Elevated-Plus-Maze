@@ -1,0 +1,4 @@
+We have been able to make the circuit and connect it to the microcontroller. 
+The code has also been put into the Arduino.  
+The IR and the receivers were placed one in front of the other in the dark/light box
+Thus, anytime the mice cross the entrance of the dark space or vice versa, the light on the breadboard should be bright
